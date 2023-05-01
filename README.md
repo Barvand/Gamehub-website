@@ -1,3 +1,3 @@
 # Gamehub-website
-Webiste
+Website
 This is some text okay
